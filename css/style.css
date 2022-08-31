@@ -4,7 +4,7 @@ h1, h2, p{
 body{
   background: rgb(228, 202, 168);
 }
-div{
+.teaMenu{
   width: 80%;
   background-color: orangered;
   margin: 0 auto;
