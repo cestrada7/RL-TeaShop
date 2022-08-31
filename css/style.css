@@ -7,4 +7,5 @@ body{
 div{
   width: 80%;
   background-color: orangered;
+  margin: 0 auto;
 }
