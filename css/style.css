@@ -2,7 +2,10 @@ h1, h2, p{
   text-align: center;
 }
 body{
-  background: rgb(228, 202, 168);
+  background-image: url(/Image/pexels-nikolay-osmachko-230477.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
 .teaMenu{
   width: 80%;
