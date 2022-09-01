@@ -5,9 +5,12 @@ body{
   background-image: url(/Image/pexels-nikolay-osmachko-230477.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: sans-serif;
 }
 .teaMenu{
   width: 80%;
-  background-color: orangered;
+  background-color: rgb(192, 129, 106); 
   margin: 0 auto;
+  border-radius: 15px;
+  padding: 15px 0;
 }
