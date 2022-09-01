@@ -6,14 +6,18 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   font-family: sans-serif;
+  color: rgb(203, 236, 236);
 }
 .teaMenu{
   width: 80%;
-  background-color: rgb(192, 129, 106); 
+  background-color: rgba(192, 129, 106, .5); 
   margin: 0 auto;
   border-radius: 15px;
   padding: 15px 10px;
 }
 .tea-Flavor{
   text-align: left;
+}
+.tea-Price{
+  text-align: right;
 }
