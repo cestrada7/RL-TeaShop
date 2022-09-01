@@ -15,9 +15,24 @@ body{
   border-radius: 15px;
   padding: 15px 10px;
 }
+.tea-Item{
+  background-color: red;
+  display: inline-block;
+}
 .tea-Flavor{
   text-align: left;
 }
 .tea-Price{
   text-align: right;
 }
+
+
+
+
+
+
+
+
+
+
+/* -------------------------TABLE--------------------- */
