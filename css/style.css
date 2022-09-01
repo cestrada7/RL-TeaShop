@@ -18,16 +18,17 @@ body{
   /* background-color: red; */
   display: inline-block;
 }
-.tea-Flavor{
+.tea-Flavor, .tea-Collection{
   text-align: left;
   width: 75%;
   background-color: rgb(153, 8, 8);
 }
-.tea-Price{
+.tea-Price, .collection-Price{
   text-align: right;
   width: 25%;
   background-color: rgb(5, 5, 133);
 }
+
 
 
 
