@@ -13,11 +13,12 @@ body{
   background-color: rgba(192, 129, 106, .5); 
   margin: 0 auto;
   border-radius: 15px;
-  padding: 15px 10px;
+  
 }
-.tea-Item{
+.tea-Item p{
   background-color: red;
   display: inline-block;
+  width: 50%;
 }
 .tea-Flavor{
   text-align: left;
@@ -25,6 +26,9 @@ body{
 .tea-Price{
   text-align: right;
 }
+
+
+
 
 
 
