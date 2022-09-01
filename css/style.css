@@ -18,13 +18,14 @@ body{
 .tea-Item p{
   background-color: red;
   display: inline-block;
-  width: 50%;
 }
 .tea-Flavor{
   text-align: left;
+  width: 75%;
 }
 .tea-Price{
   text-align: right;
+  width: 25%;
 }
 
 
