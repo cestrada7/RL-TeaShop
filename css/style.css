@@ -12,5 +12,8 @@ body{
   background-color: rgb(192, 129, 106); 
   margin: 0 auto;
   border-radius: 15px;
-  padding: 15px 0;
+  padding: 15px 10px;
+}
+.tea-Flavor{
+  text-align: left;
 }
