@@ -10,6 +10,11 @@ h2{
 .establish{
   font-style: italic;
 }
+hr{
+  box-shadow: 0 4px 9px 3px rgba(79, 79, 208, .5);
+  -webkit-box-shadow: 0 4px 9px 3px rgba(79, 79, 208. .1);
+  -moz-box-shadow: 0 4px 9px 3px rgba(79, 79, 208. .1);
+}
 body{
   background-image: url(/Image/pexels-nikolay-osmachko-230477.jpg);
   background-size: cover;
