@@ -1,6 +1,9 @@
 h1, h2, p{
   text-align: center;
 }
+.establish{
+  font-style: italic;
+}
 body{
   background-image: url(/Image/pexels-nikolay-osmachko-230477.jpg);
   background-size: cover;
