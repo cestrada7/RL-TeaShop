@@ -10,13 +10,16 @@ body{
 }
 .teaMenu{
   width: 80%;
+  max-width: 500px;
   background-color: rgba(192, 129, 106, .5); 
   margin: 0 auto;
   border-radius: 15px;
+  padding: 20px;
 }
 .tea-Item p{
   /* background-color: red; */
   display: inline-block;
+  font-weight: 400;
 }
 .tea-Flavor, .tea-Collection{
   text-align: left;
@@ -28,6 +31,7 @@ body{
   width: 25%;
   background-color: rgb(5, 5, 133);
 }
+
 
 
 
