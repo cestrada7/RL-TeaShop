@@ -1,6 +1,12 @@
 h1, h2, p{
   text-align: center;
 }
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 35px;
+}
 .establish{
   font-style: italic;
 }
