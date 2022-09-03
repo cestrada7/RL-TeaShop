@@ -10,7 +10,7 @@ h2{
 .establish{
   font-style: italic;
 }
-hr{
+.hr{
   box-shadow: 0 4px 9px 3px rgba(79, 79, 208, .5);
   -webkit-box-shadow: 0 4px 9px 3px rgba(79, 79, 208. .1);
   -moz-box-shadow: 0 4px 9px 3px rgba(79, 79, 208. .1);
@@ -21,6 +21,7 @@ body{
   background-repeat: no-repeat;
   font-family: 'roboto', sans-serif;
   color: rgb(203, 236, 236);
+  padding: 20px;
 }
 .teaMenu{
   width: 80%;
@@ -34,6 +35,8 @@ body{
   /* background-color: red; */
   display: inline-block;
   font-weight: 400;
+  margin: 5px 0;
+  font-size: 18px;
 }
 .tea-Flavor, .tea-Collection{
   text-align: left;
@@ -45,7 +48,26 @@ body{
   width: 25%;
   background-color: rgb(5, 5, 133);
 }
-
+footer p{
+  font-size: 14px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+.hr-bottom{
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+a:visited{
+  color: white;
+}
+a:hover{
+  opacity: .7;
+}
+a:active{
+  opacity: .3;
+}
 
 
 
